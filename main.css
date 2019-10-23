@@ -1,0 +1,196 @@
+body {
+    font-family: 'Roboto Mono';
+}
+
+.background {
+    background-image: url("./img/download.svg");
+    background-repeat: no-repeat;
+    background-position-y: -750px;
+    background-position-x: 10px;
+    background-size: 1400px;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+
+.nav-bar ul li a {
+    color: inherit;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+ul {
+    margin-bottom: 0;
+}
+
+ul li {
+    padding: 0 30px;
+}
+
+.icon-flag {
+    width: 3%;
+    height: 10%;
+}
+
+.button1 {
+    border: 1px solid white;
+    border-radius: 2.5px;
+    padding: 10px 20px;
+    margin-bottom: 0;
+}
+
+
+.hero {
+    color: white;
+    text-align: center;
+}
+
+
+strong {
+    color: #32c3ff;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.title-hero {
+    font-size: 1.5em;
+    width: 60%;
+    text-align: center;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+
+.button2 {
+    background-color: #32c3ff;
+    border-radius: 5px;
+    padding: 20px 30px;
+    font-size: 2.3em;
+    width: 35%;
+    margin: 0 auto;
+}
+
+.title-logos {
+    text-align: center;
+    color: grey;
+    font-size: 1em;
+}
+
+.img-flex {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 75px;
+
+}
+
+.img-size {
+    width: 10%;
+    filter: grayscale(100%);
+}
+
+.h2-title {
+    font-size: 5em;
+    color: #1e2534;
+    text-align: center;
+}
+
+.p-sect2 {
+    text-align: center;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin-top: -20px;
+}
+
+.group-img {
+    width: 100%;
+}
+
+.quote-size1 {
+    font-size: 1.5em;
+    color: #f29025;
+}
+
+.quote-size2 {
+    font-size: 0.8em;
+    font-weight: bolder;
+}
+
+.spacing1 {
+    margin-top: 150px;
+}
+
+.quote-size3 {
+    font-size: 0.8em;
+    border-bottom: 1px solid black;
+    margin-right: 150px;
+}
+
+.art-margin {
+    margin-right: 15px;
+}
+
+.title-sup {
+    text-align: center;
+    font-size: 2.5em;
+    color: #1e2534;
+    margin: 75px 0 50px 0;
+}
+
+.box1 {
+    display: flex;
+    align-items: start;
+}
+
+.img-padd {
+    padding-right: 20px;
+}
+
+.final-title {
+    font-size: 3em;
+    color: #1e2534;
+}
+
+.final-subt {
+    font-size: 2em;
+    color: #1e2534;
+}
+
+.final-p {
+    font-size: 1em;
+    color: grey;
+}
+
+.final-box {
+    padding: 0 150px;
+}
+
+.final-sentence {
+    color: red;
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
+
+.final-program {
+    font-size: 2em;
+}
+
+.final-schedule {
+    font-size: 1.1em;
+    color: grey;
+
+}
+
+.final-button {
+    border: 1px solid #32c3ff;
+    text-align: center;
+    padding: 15px 90px;
+    border-radius: 5px;
+}
